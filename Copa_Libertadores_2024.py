@@ -22,7 +22,7 @@ hide_dataframe_row_index = """
 st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
 
 st.title('Simulación:')
-st.header('Sorteo de la Copa Libertadores 2024', divider = 'gray')
+st.header('Sorteo de la Copa Libertadores 2024')
 st.subheader('Equipos por bolillero')
 b1 = [
     'Fluminense (Brasil)',
