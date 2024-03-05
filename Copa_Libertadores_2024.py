@@ -21,7 +21,8 @@ hide_dataframe_row_index = """
 # Inject CSS with Markdown
 st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
 
-st.header('Simulación del sorteo de la Copa Libertadores 2024')
+st.title('Simulación:')
+st.header('Sorteo de la Copa Libertadores 2024', divider = 'white')
 st.subheader('Equipos por bolillero')
 b1 = [
     'Fluminense (Brasil)',
@@ -61,10 +62,10 @@ b4 = [
     'Liverpool (Uruguay)',
     'Huachipato (Chile)',
     'Cobresal (Chile)',
-    'Botafogo / RB Bragantino (G1)',
-    'Nacional (PAR) / Palestino (G2)',
-    'Always Ready / Nacional (URU) (G3)',
-    'Sportivo Trinidense / Colo Colo (G4)'
+    'Botafogo / RB Bragantino (G1)*',
+    'Nacional (PAR) / Palestino (G2)*',
+    'Always Ready / Nacional (URU) (G3)*',
+    'Sportivo Trinidense / Colo Colo (G4)*'
 ]
 
 
