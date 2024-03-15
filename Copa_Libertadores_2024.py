@@ -62,10 +62,10 @@ b4 = [
     'Liverpool (Uruguay)',
     'Huachipato (Chile)',
     'Cobresal (Chile)',
-    'Botafogo / RB Bragantino (G1)*',
-    'Nacional (PAR) / Palestino (G2)*',
-    'Always Ready / Nacional (URU) (G3)*',
-    'Sportivo Trinidense / Colo Colo (G4)*'
+    'Botafogo (Brasil)*',
+    'Palestino (Chile)*',
+    'Nacional (Uruguay)*',
+    'SColo Colo (Chile)*'
 ]
 
 
