@@ -41,10 +41,10 @@ equipos = [
     Equipo('Liverpool', 'Uruguay', 4),
     Equipo('Huachipato', 'Chile', 4),
     Equipo('Cobresal', 'Chile', 4),
-    Equipo('Botafogo / RB Bragantino', 'G1', 4),
-    Equipo('Nacional (PAR) / Palestino', 'G2', 4),
-    Equipo('Always Ready / Nacional (URU)', 'G3', 4),
-    Equipo('Sportivo Trinidense / Colo Colo', 'G4', 4)
+    Equipo('Botafogo', 'Brasil - Fase Previa', 4),
+    Equipo('Palestino', 'Chile', 4),
+    Equipo('Nacional', 'Uruguay - Fase Previa', 4),
+    Equipo('Colo Colo', 'Chile', 4)
 
 ]
 
