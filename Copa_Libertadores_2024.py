@@ -65,7 +65,7 @@ b4 = [
     'Botafogo (Brasil)*',
     'Palestino (Chile)*',
     'Nacional (Uruguay)*',
-    'SColo Colo (Chile)*'
+    'Colo Colo (Chile)*'
 ]
 
 
